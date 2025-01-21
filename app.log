@@ -1,0 +1,10 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"response-time\",\"contentLength\":\"ms\"}","timestamp":"2025-01-21T16:18:00.888Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"response-time\",\"contentLength\":\"ms\"}","timestamp":"2025-01-21T16:18:03.757Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"1.885\",\"contentLength\":\"ms\\n\"}","timestamp":"2025-01-21T16:19:16.669Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"3.185\",\"contentLength\":\"ms\"}","timestamp":"2025-01-21T16:19:36.870Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"3.572\"}","timestamp":"2025-01-21T16:20:06.682Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"0.397\"}","timestamp":"2025-01-21T16:21:17.057Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/tea\",\"status\":\"200\",\"responseTime\":\"0.761\"}","timestamp":"2025-01-21T16:21:20.691Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/tea\",\"status\":\"200\",\"responseTime\":\"2.478\"}","timestamp":"2025-01-21T16:23:36.787Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request was made to /tea","timestamp":"2025-01-21T16:23:41.801Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"201\",\"responseTime\":\"1.343\"}","timestamp":"2025-01-21T16:23:41.803Z"}
